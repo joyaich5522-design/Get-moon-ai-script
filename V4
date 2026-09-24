@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("content://media/external/downloads/1000115891"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/joyaich5522-design/Nightai.lua.v4/refs/heads/main/NightAi.lua.txt"))()
